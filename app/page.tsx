@@ -3,20 +3,23 @@ export default function PortfolioWebsite() {
     {
       title: "Gold Price Analysis Dashboard",
       description:
-        "Interactive dashboard analyzing gold price trends from 2000–2026 using Power BI.",
+        "Currently building a Power BI dashboard to analyze gold price trends and market patterns from 2000–2026.",
       skills: ["Power BI", "Data Cleaning", "Data Visualization"],
+      status: "In Progress",
     },
     {
       title: "Mental Health & Workplace Wellness Dashboard",
       description:
-        "Analytics dashboard exploring workplace wellness trends and employee mental health insights.",
+        "Developed a workplace wellness dashboard exploring employee mental health patterns, work stress trends, and organizational insights using Power BI and SQL.",
       skills: ["SQL", "Power BI", "Data Analysis"],
+      status: "Completed",
     },
     {
       title: "Silver Price Analysis Dashboard",
       description:
-        "A visual dashboard focused on silver market trends, patterns, and yearly performance.",
+        "Upcoming dashboard project focused on silver price trends, yearly analysis, and market insights.",
       skills: ["Power BI", "Excel", "Data Modeling"],
+      status: "Planned",
     },
   ];
 
@@ -62,8 +65,9 @@ export default function PortfolioWebsite() {
               </a>
 
               <a
-                href="https://www.linkedin.com"
+                href="https://www.linkedin.com/in/balaji-nadar"
                 target="_blank"
+                rel="noreferrer"
                 className="px-6 py-3 rounded-2xl border border-gray-700 hover:border-cyan-400 transition"
               >
                 LinkedIn
@@ -137,6 +141,10 @@ export default function PortfolioWebsite() {
                   <span className="text-5xl">📈</span>
                 </div>
 
+                <p className="text-sm text-cyan-400 mb-3">
+                  {project.status}
+                </p>
+
                 <h3 className="text-2xl font-semibold mb-3">
                   {project.title}
                 </h3>
@@ -173,7 +181,7 @@ export default function PortfolioWebsite() {
 
           <div className="flex flex-wrap justify-center gap-4 mt-10">
             <a
-              href="mailto:yourmail@example.com"
+              href="mailto:balajinadar.work@gmail.com"
               className="px-6 py-3 rounded-2xl bg-cyan-500 text-black font-semibold hover:scale-105 transition"
             >
               Email Me
