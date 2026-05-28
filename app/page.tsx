@@ -42,9 +42,11 @@ export default function PortfolioWebsite() {
        "Built an Excel dashboard to analyze sales performance, revenue trends, and product-wise insights using charts, pivot tables, and KPI tracking.",
       skills: ["Excel", "Data Analysis", "Dashboard Design"],
       status: "Completed",
-      image: "/Sales 1.png",
-      image: "/Sales 2.png",
-      image: "/Sales 3.png",
+      images: [
+        "/Sales 1.png",
+        "/Sales 2.png",
+        "/Sales 3.png",
+      ],
     },
     {
       title: "Personal Expense Tracker",
@@ -52,9 +54,10 @@ export default function PortfolioWebsite() {
        "Designed an Excel-based personal expense tracker to monitor spending patterns, monthly budgets, and category-wise expenses.",
       skills: ["Excel", "Financial Tracking", "Data Organization"],
       status: "Completed",
-      image: "/Expense Report 1.png",
-      image: "/Expense Report 2.png",
-      image: "/Expense Report 3.png",
+      images: [
+        "/Expense Report 1.png",
+        "/Expense Report 2.png",
+      ],
     },
     {
       title: "Gold Price Analysis Dashboard",
