@@ -1,18 +1,55 @@
 export default function PortfolioWebsite() {
   const projects = [
+    
+    
     {
-      title: "Gold Price Analysis Dashboard",
+      title: "Tamil Nadu Election Dashboard",
       description:
-        "Currently building a Power BI dashboard to analyze gold price trends and market patterns from 2000–2026.",
-      skills: ["Power BI", "Data Cleaning", "Data Visualization"],
-      status: "In Progress",
+       "Interactive election dashboard analyzing voting patterns, party performance, and constituency insights using Power BI.",
+      skills: ["Power BI","Data Cleaning", "Data Visualization", "Data Analysis"],
+      status: "Completed",
     },
     {
       title: "Mental Health & Workplace Wellness Dashboard",
       description:
         "Developed a workplace wellness dashboard exploring employee mental health patterns, work stress trends, and organizational insights using Power BI and SQL.",
-      skills: ["SQL", "Power BI", "Data Analysis"],
+      skills: ["Data Cleaning", "Power BI", "Data Analysis"],
       status: "Completed",
+    },
+    {
+      title: "HR Analytics Dashboard",
+      description:
+       "HR analytics dashboard exploring employee attrition, department trends, and workforce insights.",
+      skills: ["Power BI", "HR Analytics", "Dashboard Design"],
+      status: "Completed",
+    },
+    {
+      title: "Superstore Sales Dashboard",
+      description:
+       "Created an interactive Power BI dashboard analyzing sales, profit, customer segments, and regional performance using Superstore dataset insights.",
+      skills: ["Power BI", "Data Visualization", "Business Analytics"],
+      status: "Completed",
+   },
+    {
+      title: "Sales Performance Dashboard",
+      description:
+       "Built an Excel dashboard to analyze sales performance, revenue trends, and product-wise insights using charts, pivot tables, and KPI tracking.",
+      skills: ["Excel", "Data Analysis", "Dashboard Design"],
+      status: "Completed",
+    },
+    {
+      title: "Personal Expense Tracker",
+      description:
+       "Designed an Excel-based personal expense tracker to monitor spending patterns, monthly budgets, and category-wise expenses.",
+      skills: ["Excel", "Financial Tracking", "Data Organization"],
+      status: "Completed",
+    },
+    {
+      title: "Gold Price Analysis Dashboard",
+      description:
+        "Currently building a Power BI dashboard to analyze gold price trends and market patterns from 2000–2026.",
+      skills: ["Power BI", "Data Cleaning", "Data Visualization", "Data Analysis"],
+      status: "In Progress",
     },
     {
       title: "Silver Price Analysis Dashboard",
