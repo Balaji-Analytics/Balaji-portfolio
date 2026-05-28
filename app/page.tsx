@@ -8,6 +8,7 @@ export default function PortfolioWebsite() {
        "Interactive election dashboard analyzing voting patterns, party performance, and constituency insights using Power BI.",
       skills: ["Power BI","Data Cleaning", "Data Visualization", "Data Analysis"],
       status: "Completed",
+      image: "/tamilnadu-election-dashboard.png",
     },
     {
       title: "Mental Health & Workplace Wellness Dashboard",
@@ -15,6 +16,7 @@ export default function PortfolioWebsite() {
         "Developed a workplace wellness dashboard exploring employee mental health patterns, work stress trends, and organizational insights using Power BI and SQL.",
       skills: ["Data Cleaning", "Power BI", "Data Analysis"],
       status: "Completed",
+      image: "/mental-health-dashboard.png",
     },
     {
       title: "HR Analytics Dashboard",
@@ -22,6 +24,7 @@ export default function PortfolioWebsite() {
        "HR analytics dashboard exploring employee attrition, department trends, and workforce insights.",
       skills: ["Power BI", "HR Analytics", "Dashboard Design"],
       status: "Completed",
+      image: "/hr-analytics-dashboard.png",
     },
     {
       title: "Superstore Sales Dashboard",
@@ -29,6 +32,7 @@ export default function PortfolioWebsite() {
        "Created an interactive Power BI dashboard analyzing sales, profit, customer segments, and regional performance using Superstore dataset insights.",
       skills: ["Power BI", "Data Visualization", "Business Analytics"],
       status: "Completed",
+      image: "/superstore-sales-dashboard.png",
    },
     {
       title: "Sales Performance Dashboard",
