@@ -183,12 +183,18 @@ export default function PortfolioWebsite() {
                 key={project.title}
                 className="bg-zinc-900 border border-gray-800 rounded-3xl p-6 hover:border-cyan-400 hover:-translate-y-2 transition duration-300"
               >
-                <img
-                  src={project.image}
-                  alt={project.title}
-                  className="w-full h-48 object-cover rounded-t-2xl"
-                />
-
+                {project.image ? (
+                  <img
+                    src={project.image}
+                    alt={project.title}
+                    className="w-full h-48 object-cover rounded-t-2xl"
+                  />
+                ) : (
+                  <div className="w-full h-48 flex items-center justify-center bg-gradient-to-br from-cyan-500/20 to-blue-500/20 rounded-t-2xl">
+                  <span className="text-4xl">📊</span>
+                 </div>
+                )}
+                
                <p className="text-sm text-cyan-400 mb-3">
                   {project.status}
                 </p>
