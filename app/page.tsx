@@ -26,7 +26,7 @@ export default function PortfolioWebsite() {
        "HR analytics dashboard exploring employee attrition, department trends, and workforce insights.",
       skills: ["Power BI", "HR Analytics", "Dashboard Design"],
       status: "Completed",
-      image: "/hr-analytics-dashboard.png",
+      image: "/HR Analytics.png",
     },
     {
       title: "Superstore Sales Dashboard",
