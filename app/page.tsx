@@ -58,6 +58,7 @@ export default function PortfolioWebsite() {
         "Currently building a Power BI dashboard to analyze gold price trends and market patterns from 2000–2026.",
       skills: ["Power BI", "Data Cleaning", "Data Visualization", "Data Analysis"],
       status: "In Progress",
+      image: "/coming-soon.png",
     },
     {
       title: "Silver Price Analysis Dashboard",
