@@ -58,7 +58,6 @@ export default function PortfolioWebsite() {
         "Currently building a Power BI dashboard to analyze gold price trends and market patterns from 2000–2026.",
       skills: ["Power BI", "Data Cleaning", "Data Visualization", "Data Analysis"],
       status: "In Progress",
-      image: "/coming-soon.png",
     },
     {
       title: "Silver Price Analysis Dashboard",
@@ -194,7 +193,7 @@ export default function PortfolioWebsite() {
                   <span className="text-4xl">📊</span>
                  </div>
                 )}
-                
+
                <p className="text-sm text-cyan-400 mb-3">
                   {project.status}
                 </p>
