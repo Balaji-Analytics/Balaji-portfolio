@@ -42,10 +42,8 @@ export default function PortfolioWebsite() {
        "Built an Excel dashboard to analyze sales performance, revenue trends, and product-wise insights using charts, pivot tables, and KPI tracking.",
       skills: ["Excel", "Data Analysis", "Dashboard Design"],
       status: "Completed",
-      images: [
+      image: [
         "/Sales 1.png",
-        "/Sales 2.png",
-        "/Sales 3.png",
       ],
     },
     {
@@ -56,7 +54,6 @@ export default function PortfolioWebsite() {
       status: "Completed",
       images: [
         "/Expense Report 1.png",
-        "/Expense Report 2.png",
       ],
     },
     {
