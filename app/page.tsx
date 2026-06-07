@@ -140,11 +140,7 @@ export default function PortfolioWebsite() {
 
           <div className="bg-zinc-900 border border-gray-800 rounded-3xl p-8 shadow-xl">
             <p className="text-gray-300 text-lg leading-relaxed">
-              I'm a B.Com student passionate about analytics, dashboard design,
-              and business intelligence. I enjoy turning complex datasets into
-              simple and visually engaging dashboards using Power BI and SQL.
-              Currently, I am building projects to strengthen my portfolio and
-              grow my career in data analytics.
+              I'm a B.Com graduate and aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy building dashboards using Power BI, Excel, and SQL while continuously improving my analytical and problem-solving skills through real-world projects.
             </p>
           </div>
         </div>
