@@ -11,6 +11,7 @@ export default function PortfolioWebsite() {
       skills: ["Power BI","Data Cleaning", "Data Visualization", "Data Analysis"],
       status: "Completed",
       image: "/tamilnadu-election-dashboard.png",
+      github: "https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026",
     },
     {
       title: "Mental Health & Workplace Wellness Dashboard",
@@ -19,6 +20,7 @@ export default function PortfolioWebsite() {
       skills: ["Data Cleaning", "Power BI", "Data Analysis"],
       status: "Completed",
       image: "/mental-health-dashboard.png",
+      github: "https://github.com/Balaji-Analytics/Mental-Health-Workplace-Dashboard---Power-BI",
     },
     {
       title: "HR Analytics Dashboard",
@@ -27,6 +29,7 @@ export default function PortfolioWebsite() {
       skills: ["Power BI", "HR Analytics", "Dashboard Design"],
       status: "Completed",
       image: "/HR Analytics.png",
+      github: "https://github.com/Balaji-Analytics/HR-Analytics-Employee-Attrition-Dashboard---Power-BI",
     },
     {
       title: "Superstore Sales Dashboard",
@@ -35,6 +38,7 @@ export default function PortfolioWebsite() {
       skills: ["Power BI", "Data Visualization", "Business Analytics"],
       status: "Completed",
       image: "/superstore-sales-dashboard.png",
+      github: "https://github.com/Balaji-Analytics/superstore-sales-dashboard-powerbi",
    },
     {
       title: "Sales Performance Dashboard",
@@ -43,6 +47,7 @@ export default function PortfolioWebsite() {
       skills: ["Excel", "Data Analysis", "Dashboard Design"],
       status: "Completed",
       image: "/Sales 1.png",
+      github: "https://github.com/Balaji-Analytics/sales-performance-dashboard-excel",
     },
     {
       title: "Personal Expense Tracker",
@@ -51,6 +56,7 @@ export default function PortfolioWebsite() {
       skills: ["Excel", "Financial Tracking", "Data Organization"],
       status: "Completed",
       image: "/Expense Report 1.png",
+      github: "https://github.com/Balaji-Analytics/personal-expense-tracker-dashboard-excel",
     },
     {
       title: "Gold Price Analysis Dashboard",
