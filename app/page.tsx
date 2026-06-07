@@ -99,6 +99,23 @@ export default function PortfolioWebsite() {
               I build interactive dashboards and data-driven projects that
               transform raw data into meaningful insights.
             </p>
+            
+            <div className="flex gap-8 mt-8">
+            <div>
+              <h3 className="text-3xl font-bold text-cyan-400">8+</h3>
+              <p className="text-gray-400">Projects</p>
+             </div>
+
+            <div>
+               <h3 className="text-3xl font-bold text-cyan-400">3+</h3>
+               <p className="text-gray-400">Tools</p>
+              </div>
+
+              <div>
+                <h3 className="text-3xl font-bold text-cyan-400">1</h3>
+                <p className="text-gray-400">Portfolio Website</p>
+              </div>
+            </div>
 
             <div className="flex flex-wrap gap-4 mt-8">
               <a
