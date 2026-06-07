@@ -20,7 +20,7 @@ export default function PortfolioWebsite() {
       skills: ["Data Cleaning", "Power BI", "Data Analysis"],
       status: "Completed",
       image: "/mental-health-dashboard.png",
-      github: "https://github.com/Balaji-Analytics/Mental-Health-Workplace-Dashboard---Power-BI",
+      github: "https://github.com/Balaji-Analytics/Mental-Health-Workplace-Dashboard",
     },
     {
       title: "HR Analytics Dashboard",
