@@ -113,14 +113,14 @@ export default function PortfolioWebsite() {
                 href="https://www.linkedin.com/in/balaji-nadar"
                 target="_blank"
                 rel="noreferrer"
-                className="px-6 py-3 rounded-2xl border border-gray-700 hover:border-cyan-400 transition"
+                className="px-6 py-3 rounded-2xl bg-cyan-500 text-black font-semibold hover:scale-105 transition"
               >
                 LinkedIn
               </a>
               <a
                 href="/Balaji_Nadar_Resume.pdf"
                 target="_blank"
-                className="px-6 py-3 rounded-2xl border border-gray-700 hover:border-cyan-400 transition"
+                className="px-6 py-3 rounded-2xl bg-cyan-500 text-black font-semibold hover:scale-105 transition"
 >                 
                 Resume
             </a>
