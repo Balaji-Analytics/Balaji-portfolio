@@ -261,13 +261,15 @@ export default function PortfolioWebsite() {
     View Project
   </a>
 
-  <a
-    href="#"
-    className="px-4 py-2 border border-cyan-500 rounded-xl font-medium hover:scale-105 transition"
-  >
-    GitHub
-  </a>
-</div>
+<a
+      href={project.github}
+                   target="_blank"
+                   rel="noopener noreferrer"
+                   className="px-4 py-2 border border-cyan-500 rounded-xl"
+                      >
+                GitHub
+              </a>
+          </div>
               </div>
             ))}
           </div>
