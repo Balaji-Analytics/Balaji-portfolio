@@ -99,7 +99,7 @@ export default function PortfolioWebsite() {
               I build interactive dashboards and data-driven projects that
               transform raw data into meaningful insights.
             </p>
-            
+
             <div className="flex gap-8 mt-8">
             <div>
               <h3 className="text-3xl font-bold text-cyan-400">8+</h3>
@@ -247,6 +247,21 @@ export default function PortfolioWebsite() {
                     </span>
                   ))}
                 </div>
+                <div className="flex gap-3 mt-5">
+  <a
+    href="#"
+    className="px-4 py-2 bg-cyan-500 text-black rounded-xl font-medium hover:scale-105 transition"
+  >
+    View Project
+  </a>
+
+  <a
+    href="#"
+    className="px-4 py-2 border border-cyan-500 rounded-xl font-medium hover:scale-105 transition"
+  >
+    GitHub
+  </a>
+</div>
               </div>
             ))}
           </div>
