@@ -141,7 +141,7 @@ export default function PortfolioWebsite() {
                 LinkedIn
               </a>
               <a
-                href="/BALAJI RESUME.pdf"
+                href="/Balaji_Resume.pdf"
                 target="_blank"
                 className="px-6 py-3 rounded-2xl bg-cyan-500 text-black font-semibold hover:scale-105 transition"
 >                 
